@@ -405,3 +405,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .node_modules
+.app/css
+.app/js/main.min.js
